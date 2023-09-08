@@ -1,0 +1,15 @@
+{
+  "success": true,
+  "data": {
+    "user": {
+      "_id": "64fae23f30736a604e5a24ef",
+      "username": "user",
+      "email": "user@gmail.com",
+      "password": "$2a$12$LebS7ux/WTZ4U7uxBt3tnOzM0JzJ.vS0c0Txi7omeFH1bWRENRzQe",
+      "profilePic": "https://i.imgur.com/Eyzrkg3.jpeg",
+      "__v": 0
+    },
+    "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY0ZmFlMjNmMzA3MzZhNjA0ZTVhMjRlZiIsInVzZXJuYW1lIjoidXNlciIsInByb2ZpbGVQaWMiOiJodHRwczovL2kuaW1ndXIuY29tL0V5enJrZzMuanBlZyIsImVtYWlsIjoidXNlckBnbWFpbC5jb20iLCJpYXQiOjE2OTQxNjM1ODMsImV4cCI6MTY5NDc2ODM4M30.R89L7RUSM1P7N_Ev6xSe6t3Jp2H58jbnjfWoOwMEjhU"
+  },
+  "message": "User logged in successfully!"
+}

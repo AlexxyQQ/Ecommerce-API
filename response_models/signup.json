@@ -1,0 +1,12 @@
+{
+  "success": true,
+  "data": {
+    "username": "user",
+    "email": "user@gmail.com",
+    "password": "$2a$12$LebS7ux/WTZ4U7uxBt3tnOzM0JzJ.vS0c0Txi7omeFH1bWRENRzQe",
+    "profilePic": "https://i.imgur.com/Eyzrkg3.jpeg",
+    "_id": "64fae23f30736a604e5a24ef",
+    "__v": 0
+  },
+  "message": "User created successfully!"
+}

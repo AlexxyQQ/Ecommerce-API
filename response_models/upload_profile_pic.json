@@ -1,0 +1,12 @@
+{
+  "success": true,
+  "data": {
+    "_id": "64fae23f30736a604e5a24ef",
+    "username": "user",
+    "email": "user@gmail.com",
+    "password": "$2a$12$LebS7ux/WTZ4U7uxBt3tnOzM0JzJ.vS0c0Txi7omeFH1bWRENRzQe",
+    "profilePic": "public\\uploads\\user\\profilePic\\d00964445ba22fc1f60ad55ca7d4844c.jpg",
+    "__v": 0
+  },
+  "message": "File uploaded successfully"
+}
