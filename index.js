@@ -8,7 +8,7 @@ app.listen(process.env.PORT, "0.0.0.0", () => {
 app.get("/api/", (req, res) => {
   res.status(200).json({
     success: true,
-    data: "Hello from the server",
-    message: "Server is running",
+    data: "Hello from the Ecommerce Server",
+    message: "Ecommerce Server is running",
   });
 });
